@@ -1,24 +1,28 @@
 // vim: set syntax=asciidoc:
-= Template - RENAME THIS LINE
+= TEMPLATE - RENAME HERE
 :data-uri:
 :icons:
 :toc2:
 :toclevels 4:
 :numbered:
-:homepage https://github.com/scollier/asciidoc-template:
+:homepage https://github.com/path/to/project:
 
 :leveloffset: 1
 
-include::content/lab1/lab1.labs.adoc[]
+include::content/overview/overview.adoc[]
 
-include::content/lab2/lab2.labs.adoc[]
+include::content/chapter1/chapter1.adoc[]
 
-include::content/lab3/lab3.labs.adoc[]
+include::content/chapter2/chapter2.adoc[]
 
-include::content/lab4/lab4.labs.adoc[]
+include::content/chapter3/chapter3.adoc[]
 
-include::content/lab5/lab5.labs.adoc[]
+include::content/chapter4/chapter4.adoc[]
 
-include::content/lab6/lab6.labs.adoc[]
+include::content/chapter5/chapter5.adoc[]
 
-include::content/lab7/lab7.labs.adoc[]
+include::content/chapter6/chapter6.adoc[]
+
+include::content/chapter7/chapter7.adoc[]
+
+include::content/appendix/appendix.adoc[]
